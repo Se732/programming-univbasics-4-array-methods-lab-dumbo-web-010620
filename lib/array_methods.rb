@@ -3,26 +3,26 @@ array.include?(element)
 end
 
 def using_sort(array)
-movies = ["why him?","The Grinch","Home Alone"]
+movies = ["wow","The Grinch","Home Alone"]
 movies.sort
 end
 
 def using_reverse(array)
-movies = ["why him?","The Grinch","Home Alone"]
+movies = ["why him?","The Grinch","arrays!"]
 movies.reverse
 end
 
 def using_first(array)
-movies = ["why him?","The Grinch","Home Alone"]
+movies = ["wow","The Grinch","Home Alone"]
 movies.first
 end
 
 def using_last(array)
-movies = ["why him?","The Grinch","Home Alone"]
+movies = ["why him?","The Grinch","arrays!"]
 movies.last
 end
 
 def using_size(array)
-movies = ["why him?","The Grinch","Home Alone"]
+movies = ["why him?","The Grinch","bad santa","Home Alone","the Holiday","Author Christmas",]
 movies.size
 end
