@@ -3,12 +3,12 @@ array.include?(element)
 end
 
 def using_sort(array)
-movies = ["wow","The Grinch","Home Alone"]
+movies = ["wow","The Grinch","I"]
 movies.sort
 end
 
 def using_reverse(array)
-movies = ["why him?","The Grinch","arrays!"]
+movies = ["wow","The Grinch","arrays!"]
 movies.reverse
 end
 
