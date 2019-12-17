@@ -8,7 +8,7 @@ movies.sort
 end
 
 def using_reverse(array)
-movies = ["wow","The Grinch","arrays!"]
+movies = ["wow","The Grinch","Home Alone"]
 movies.reverse
 end
 
